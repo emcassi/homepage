@@ -1,0 +1,12 @@
+.techs {
+    padding: 10px 20px;
+ margin: auto;
+ color: white;
+ background-color: black;
+}
+
+.techs-list {
+    display: flex;
+        width: 80%;
+    margin: 0 auto;
+}

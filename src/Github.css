@@ -1,0 +1,32 @@
+.github {
+    background-color: black;
+    padding: 25px;
+    margin: 50px 0;
+}
+
+.github-content {
+    width: 60%;
+    margin: 0 auto;
+    color: white;
+    text-align: center;
+
+}
+
+.github-content img {
+    width: 256px;
+}
+
+.github-content a {
+    text-decoration: none;
+    color: white;
+}
+
+.github-content button {
+    border: 1px solid white;
+    background-color: black;
+    color: white;
+    border-radius: 50px;
+    padding: 5px 20px;
+    font-size: 1.5rem;
+    font-weight: 600;
+}

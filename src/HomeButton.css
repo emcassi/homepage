@@ -1,0 +1,16 @@
+.home-button {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    color: white;
+}
+
+.home-button img {
+    width: 48px;
+    height: 48px;
+}
+
+.home-button h1 {
+    font-family: DancingScript;
+    font-size: 2.5rem;
+}

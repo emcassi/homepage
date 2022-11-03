@@ -1,0 +1,14 @@
+.tech {
+    width: 20%;
+    display: block;
+    align-items: center;
+    align-content: center;
+    text-align: center;
+
+}
+
+.tech img {
+    width: 80%;
+    margin: auto;
+    margin-bottom: 10px;
+}
